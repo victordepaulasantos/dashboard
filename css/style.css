@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Big Shoulders Display', cursive;
+    overflow: hidden;
+}
+
+.menu {
+    font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    position: relative;
+    left: 10px;
+}
+
+h5 {
+    font-family: 'Dosis', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    position: relative;
+    left: 17px;
+}
+
+video {
+    opacity: 0.90;
+}
+
+.button {
+    background-color: #73952a;
+    border: none;
+    color: white;
+    width: 300px;
+    height: 40px;
+    padding: 15px 32px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 10px;
+    font-size: 16px;
+    margin: 4px 2px;
+    position: relative;
+    left: 25px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background: #455954;
+    color: white;
+    text-decoration: none;
+}
